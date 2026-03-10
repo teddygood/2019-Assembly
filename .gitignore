@@ -5,6 +5,8 @@ Listings/
 # Keil project user files
 *.uvopt
 *.uvgui.*
+*.uvproj
+memory.ini
 
 # ARM/Keil generated files
 *.axf
