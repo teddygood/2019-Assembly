@@ -3,6 +3,8 @@
 
 Main
 	LDR r0, Address1
+	MOV r1, #0
+	MOV r2, #0
 	
 	ADD r1, r1, #1			; r1 = 1
 	LSL r1, r1, #3			; r1 = 8

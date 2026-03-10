@@ -4,17 +4,17 @@ Assembly Language Programming course archive from 2019.
 
 ## Structure
 
-- `assignments/assignment-1` to `assignments/assignment-6`: weekly assignment solutions
+- `assignments/01` to `assignments/06`: weekly assignment solutions
 - `project/`: final project source and test data
 
 ## Assignments
 
-- `assignment-1`: memory transfer and addressing
-- `assignment-2`: control flow and array/string problems
-- `assignment-3`: arithmetic and factorial
-- `assignment-4`: block data transfer, stack, and subroutines
-- `assignment-5`: floating-point addition
-- `assignment-6`: string copy
+- `01`: memory transfer and addressing
+- `02`: control flow and array/string problems
+- `03`: arithmetic and factorial
+- `04`: block data transfer, stack, and subroutines
+- `05`: floating-point addition
+- `06`: string copy
 
 ## Project
 

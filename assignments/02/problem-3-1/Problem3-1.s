@@ -3,6 +3,10 @@
 
 Main
 	LDR r0, Address1
+	MOV r1, #0
+	MOV r2, #0
+	MOV r3, #0
+	MOV r4, #0
 	ADD r1, r1, #1			; r1 = 1
 	LSL r1, r1, #1			; r1 = 2
 	ADD r2, r2, r1			; r2 = 2
