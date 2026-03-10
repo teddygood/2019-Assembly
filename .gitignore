@@ -1,0 +1,26 @@
+# Keil uVision build output
+Objects/
+Listings/
+
+# Keil project user files
+*.uvopt
+*.uvgui.*
+
+# ARM/Keil generated files
+*.axf
+*.crf
+*.d
+*.dep
+*.htm
+*.i
+*.lnp
+*.lst
+*.map
+*.o
+*.sct
+*.tra
+*.bak
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
